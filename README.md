@@ -16,3 +16,9 @@ Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
 # Reading the data
 ### Some names in Users and Author Books have some special characters in them so we have to change the encoding
+Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
+
+# Summary
+Here we have the EDA and RS in the ipynb file for part 1.
+For part two we chose the Effective Nearest-Neighbor Music Recommendations submission.
+Part three is a part of the video
