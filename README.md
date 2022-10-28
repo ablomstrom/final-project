@@ -26,4 +26,4 @@ Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 For part two we chose the Effective Nearest-Neighbor Music Recommendations submission.
 
 # part 3
-Part three is a part of the video
+In the video we discussed part three, the ethcial challanges of spotifys RS
