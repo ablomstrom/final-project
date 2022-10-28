@@ -1,10 +1,14 @@
 # final-project
 Final project for Decision Support Systems &amp; Verification 2022
 
-# Dataset
+#part 1
+
+Here we have the EDA and RS in the ipynb file for part 1.
+
+## Dataset
 Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) 
 
-# Cleaning up the dataset
+## Cleaning up the dataset
 ### We removed the BX- prefix from each dataset name readability
 ### I know that all books have a valid ISBN since the website where i got the dataset states that all data with invalid ISBNs have been removed (http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 ### I see some of the ISBNs end with a X and some are only numbers but have to assume that this is intended beacuse of the statemant above that invalid ISBNs have been removed
@@ -14,11 +18,12 @@ Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 ### The ratings seems fairly straightforward, no big changes for any outliers
 ### The year seems to be inconsistent between strings and numbers so we need to fix that, while doing that we noticed a few lines with data in the wrong places which we manualy fixed
 
-# Reading the data
+## Reading the data
 ### Some names in Users and Author Books have some special characters in them so we have to change the encoding
 Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
-# Summary
-Here we have the EDA and RS in the ipynb file for part 1.
+#part 2
 For part two we chose the Effective Nearest-Neighbor Music Recommendations submission.
+
+# part 3
 Part three is a part of the video
