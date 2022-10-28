@@ -1,6 +1,9 @@
 # final-project
 Final project for Decision Support Systems &amp; Verification 2022
 
+## You can watch the video that explains all the parts on youtube : https://www.youtube.com/watch?v=o_z7SZL6oxs
+## The video is also part of the Git repo
+
 # part 1
 
 Here we have the EDA and RS in the ipynb file for part 1.
