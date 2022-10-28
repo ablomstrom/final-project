@@ -1,7 +1,7 @@
 # final-project
 Final project for Decision Support Systems &amp; Verification 2022
 
-#part 1
+# part 1
 
 Here we have the EDA and RS in the ipynb file for part 1.
 
@@ -22,7 +22,7 @@ Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 ### Some names in Users and Author Books have some special characters in them so we have to change the encoding
 Datasets taken from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
-#part 2
+# part 2
 For part two we chose the Effective Nearest-Neighbor Music Recommendations submission.
 
 # part 3
